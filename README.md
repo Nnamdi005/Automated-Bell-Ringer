@@ -42,7 +42,7 @@ A working sound system for audio playback
 # Installation and Setup
 ## Clone the Repository
 
-git clone https://github.com/Endee5/automated-bell-ringer-system.git
+git clone https://github.com/Nnamdi005/automated-bell-ringer-system.git
 
 cd automated-bell-ringer-system
 
